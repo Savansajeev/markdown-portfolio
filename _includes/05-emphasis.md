@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I know **Python** and have been using it for nearly __2__ years.
+I'm also an _intermediate_ in **Linux system administration**.
+I also have a _basic_ knowledge on **C/C++**,**lua**,**Java**,**Bash scripting** etc...
