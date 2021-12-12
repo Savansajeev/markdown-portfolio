@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Just another image ;)](https://wallpapercave.com/wp/wp3082255.jpg)
